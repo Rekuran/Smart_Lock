@@ -10,7 +10,7 @@ Phase 1 provides a complete end-to-end communication loop between a management i
 
 The system consists of the following components:
 
-**Management Interface (Swagger UI) $\rightarrow$ FastAPI Backend $\rightarrow$ Mosquitto MQTT Broker $\rightarrow$ Virtual Smart Lock**
+**Management Interface (Swagger UI) -> FastAPI Backend -> Mosquitto MQTT Broker -> Virtual Smart Lock**
 
 ### Components
 
